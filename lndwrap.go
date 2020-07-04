@@ -111,7 +111,7 @@ type LightningRPC interface {
 	// ChanFitnessRPC sub-server
 	//	ChanFitnessRPC
 
-	//TODO(carla): Add all the GRPC functions
+	//TODO(carla): Add all the GRPC functions test
 }
 
 // macCtx appends a macaroon to context if the client has one
